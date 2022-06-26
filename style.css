@@ -60,6 +60,9 @@ nav ul li a{
     text-decoration: underline double;
     color: grey;
 }
+.inner li{
+    text-align: left;
+}
 .card{
     
     width: 250px;
